@@ -1,11 +1,5 @@
 clear;
 clc;
-%% Exercise 3- Measuring and analyzing reaction times in a visual search experiment
-
-% Gali Winterberger      - id 315679571
-% Yair Lahad             - id 205493018
-
-
 %% setting variables
 nBlocks=8;                 % number of blocks in the experiment
 nTrials=30;                % number of trials per block
